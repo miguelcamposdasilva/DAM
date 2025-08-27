@@ -20,3 +20,5 @@ fun validacionEdad(edad: Int){
         println("Es menor de edad")
     }
 }
+
+
